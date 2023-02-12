@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import styles from "@/styles";
 import { footerVariants } from "@/utils/motion";
 import { socials } from "@/constants";
+import Image from "next/image";
 
 const Footer = () => {
   return (
@@ -22,10 +23,12 @@ const Footer = () => {
             type="button"
             className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]"
           >
-            <img
+            <Image
               src="/headset.svg"
               alt="headset"
-              className="w-[24px] h-[24px] object-contain"
+              width={24}
+              height={24}
+              object-fit="contain"
             />
             <span className="font-normal text-[16px] text-white uppercase ">
               Enter Metaverse
@@ -43,11 +46,13 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               {socials.map((social) => (
-                <img
+                <Image
                   src={social.url}
                   alt={social.name}
                   key={social.name}
-                  className="w-[24px] h-[24px] object-contain cursor-pointer"
+                  width={24}
+                  height={24}
+                  object-fit="contain"
                 />
               ))}
             </div>

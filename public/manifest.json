@@ -1,0 +1,181 @@
+{
+    "name": "Metaversus Progressive Web App",
+    "short_name": "Metaversus PWA",
+    "theme_color": "#ffffff",
+    "background_color": "#004740",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+        "src": "/people-01.png",
+        "sizes": "122x122",
+        "type": "image/png"
+        },
+        {
+        "src": "/people-02.png",
+        "sizes": "96x96",
+        "type": "image/png"
+        },
+        {
+        "src": "/people-03.png",
+        "sizes": "128x128",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-01.png",
+        "sizes": "3624x1689",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-02.png",
+        "sizes": "3909x1689",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-03.png",
+        "sizes": "4722x1689",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-04.png",
+        "sizes": "4212x1689",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-05.png",
+        "sizes": "6204x1689",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-06.png",
+        "sizes": "1125x750",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-07.png",
+        "sizes": "1869x750",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-08.png",
+        "sizes": "1500x750",
+        "type": "image/png"
+        },
+        {
+        "src": "/planet-09.png",
+        "sizes": "4908x2259",
+        "type": "image/png"
+        },
+        {
+        "src": "/stamp.png",
+        "sizes": "495x497",
+        "type": "image/png"
+        },
+        {
+        "src": "/whats-new.png",
+        "sizes": "1403x1404",
+        "type": "image/png"
+        },
+        {
+        "src": "/map.png",
+        "sizes": "3510x1578",
+        "type": "image/png"
+        },
+        {
+        "src": "/get-started.png",
+        "sizes": "1403x1535",
+        "type": "image/png"
+        },
+        {
+        "src": "/favicon.ico",
+        "sizes": "48x48",
+        "type": "image/ico"
+        },
+        {
+        "src": "/cover.png",
+        "sizes": "3915x2595",
+        "type": "image/png"
+        },
+        {
+            "src": "/arrow.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/arrow-down.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/facebook.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/headset.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/instagram.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/linkedin.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/menu.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/next.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/search.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/thirteen.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/twitter.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/vercel.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/vrpano.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "splash_pages": null
+  }
